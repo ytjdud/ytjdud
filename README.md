@@ -8,7 +8,7 @@
 🚀 who aspires to make something cool</br>
 📫 email : ytjdud01@kookmin.ac.kr</br></br>
 and also..</br>
-<a href="https://www.linkedin.com/in/seo-young-yoon/"><img alt="linkedin" src = "https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href=""><img alt="medium" src = "https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a> <a href="https://the0.tistory.com"><img alt="tistory" src ="https://img.shields.io/badge/Tistory-F05032.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seo-young-yoon/"><img alt="linkedin" src = "https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="https://medium.com/@yoonsy1223"><img alt="medium" src = "https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"></a> <a href="https://the0.tistory.com"><img alt="tistory" src ="https://img.shields.io/badge/Tistory-F05032.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 </br><h3> Algorithm Stats </h3>
 
@@ -25,6 +25,7 @@ and also..</br>
   <img alt="django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
   <img alt="java" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
   <img alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img alt="springboot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <!--  <img alt="git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   
  <img alt="intelliJ" src ="https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -32,7 +33,7 @@ and also..</br>
   <img alt="vscode" src ="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> -->
 </div></br>
 
-<h3> My Motto </h3>
+<h3> Motto </h3>
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Learning%20By%20Doing:%20Don’t%20Dissect%20the%20Frog,%20Build%20It&author=Nicholas%20Negroponte&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
